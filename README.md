@@ -39,7 +39,7 @@ The Arduino sketch for this project is located in the [code/ directory](code/7se
 A demonstration video of the project is included in this repository.
 
 📹 **Project Demonstration:**  
-[Click here to watch/download the demo video](video/7segment_control_with_595_register_photo2.mo4)
+[Click here to watch/download the demo video](video/7segment_control_with_595_register_photo2.mp4)
 
 *(If the video does not preview directly on GitHub, please download it using the link above.)*
 
